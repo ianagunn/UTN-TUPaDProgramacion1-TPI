@@ -61,13 +61,21 @@ README.md                  # Documento explicativo del proyecto
 -Colocar el archivo paises.csv en la misma carpeta del script.
 
 -Ejecutar el programa desde la terminal: python tpi_paises.py
+
 -El menú mostrará las siguientes opciones:
+
     1 - Agregar país
+
     2 - Actualizar país
+
     3 - Buscar país
+
     4 - Filtrar
+
     5 - Ordenar países
+
     6 - Mostrar estadísticas
+    
     7 - Salir
 
 3. Notas:
