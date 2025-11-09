@@ -75,7 +75,7 @@ README.md                  # Documento explicativo del proyecto
     5 - Ordenar países
 
     6 - Mostrar estadísticas
-    
+
     7 - Salir
 
 3. Notas:
@@ -93,4 +93,4 @@ csv: lectura y escritura de datos estructurados en formato CSV.
 
 Video de presentación: [enlace pendiente]
 
-Repositorio GitHub: https://github.com/ianagunn/UTN-TUPaDProgramacion1/tree/main/TPI
+Repositorio GitHub: https://github.com/ianagunn/UTN-TUPaDProgramacion1-TPI
