@@ -91,6 +91,6 @@ csv: lectura y escritura de datos estructurados en formato CSV.
 
 # Links
 
-Video de presentación: [enlace pendiente]
+Video de presentación: https://www.youtube.com/watch?v=SnhqrfD9lFg  
 
 Repositorio GitHub: https://github.com/ianagunn/UTN-TUPaDProgramacion1-TPI

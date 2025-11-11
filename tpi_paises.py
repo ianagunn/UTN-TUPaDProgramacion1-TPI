@@ -306,7 +306,7 @@ def menu():
     ]
 
     while True:
-        print("-" * 45)
+        print("-" * 20, "MENU", "-" * 20)
         for o in opciones:
             print(o)
         print("-" * 45)
